@@ -2,6 +2,7 @@
 Notebooks for Coding Sessions in Transformations in Political Economy - Technological Change and Populism (POL63102)
 
 The structure of the notebooks is as follows:
+
   0. Introduction to Jupyter Notebooks and Python
   1. Loading and Inspecting Data
   2. Linear Regression
